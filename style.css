@@ -1,0 +1,60 @@
+body {
+  background-color: black;
+}
+
+.image {
+  background-image: url(netflix-background-gs7hjuwvv2g0e9fj.jpg);
+  height: auto;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.gradient-line span {
+  display: block;
+  height: 5px;
+  background: linear-gradient(to right, #000000, #ff0019 50%, #000000);
+}
+
+/* body {
+  background-color: black;
+  color: white;
+}
+
+.navbar img {
+  width: 120px;
+}
+
+.form-control::placeholder {
+  color: #6c757d;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.footer u:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.btn-danger {
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .navbar img {
+    width: 100px;
+  }
+
+  .card {
+    margin-bottom: 1.5rem;
+  }
+}
+@media (max-width: 1400px) { 
+  .card1
+  { display: grid;
+    grid-template-columns: no-repeat( 2fr);
+    
+  }
+  
+} */
